@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_layout_padding">20dp</dimen>
+    <dimen name="inner_vertical_input_margin">8dp</dimen>
+    <dimen name="width_percentage">.9999</dimen>
+    <dimen name="button_vertical_padding">14dp</dimen>
+</resources>

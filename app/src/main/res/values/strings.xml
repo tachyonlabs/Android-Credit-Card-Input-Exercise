@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Credit Card Input Exercise</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="credit_card_number">Card number</string>
+    <string name="expiration_date">MM/YY</string>
+    <string name="cvv">Security code</string>
+
+    <string name="pay">Submit Payment</string>
+
+    <string name="successful">Payment Successful</string>
+    <string name="ok">OK</string>
+
+    <string name="please_enter_first_name">Please enter your first name</string>
+    <string name="please_enter_last_name">Please enter your last name</string>
+
+    <string name="invalid_card_number">Invalid credit card number</string>
+    <string name="invalid_expiration_date">Invalid MM/YY exp. date</string>
+    <string name="invalid_cvv">Invalid security code</string>
+
+</resources>
